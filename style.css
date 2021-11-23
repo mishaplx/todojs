@@ -27,19 +27,19 @@ body {
 
 @media (max-width: 768px) {
 
-  .header{
+  .header {
     text-align: center;
   }
 
 }
-.container{
+.container {
 
   display: block;
   width: 500px;
   margin: 0 auto 0
 
 }
-.task{
+.task {
 
   width: 56%;
   display: inline-block;
@@ -204,5 +204,5 @@ ul li input[type="text"] {
 .edit-mode label {
 
   display: none;
-  
+
 }
